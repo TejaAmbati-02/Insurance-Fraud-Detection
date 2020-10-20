@@ -1,1 +1,1 @@
-# Insurance-Fraud-Detection
+# InsuranceFraudDetection
